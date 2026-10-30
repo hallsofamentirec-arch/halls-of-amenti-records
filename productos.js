@@ -1,4 +1,4 @@
-// Precios CLP convertidos desde USD a 980,79 CLP por USD — Banco Central de Chile, 2026-10-14
+js/productos.js// Precios CLP convertidos desde USD a 980,79 CLP por USD — Banco Central de Chile, 2026-10-14
 // Redondeo al peso entero; valores fijos editables desde el panel, sin actualización automática
 window.HOA_PRODUCTS = [
   {
